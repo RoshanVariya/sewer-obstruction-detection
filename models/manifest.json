@@ -1,0 +1,13 @@
+{
+  "project": "Sewer Obstruction Detection",
+  "checkpoint": "models/best.pt",
+  "checkpoint_size_bytes": 5439834,
+  "checkpoint_sha256": "ab213adb5e4d8531c4f0d16718414e4e6d6505bb663ba5af55d884c167de922a",
+  "task_reported_by_local_inference": "detect",
+  "class_mapping_reported_by_local_inference": {
+    "0": "tree_root",
+    "1": "obstacle"
+  },
+  "quantitative_metrics": null,
+  "notes": "Inference was verified by the project owner on two sample images; this is not a model accuracy evaluation."
+}
